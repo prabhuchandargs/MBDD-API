@@ -1,0 +1,231 @@
+{ "data" : [ 
+  {
+    "stateName": "Delhi",
+    "camps": 800,
+    "donations": 25000,
+    "certificates": 23500,
+    "districtDetails": [
+      {
+        "districtName": "Central Delhi",
+        "camps": 80,
+        "donations": 2500,
+        "certificates": 2350
+      },
+      {
+        "districtName": "East Delhi",
+        "camps": 81,
+        "donations": 2501,
+        "certificates": 2351
+      },
+      {
+        "districtName": "West Delhi",
+        "camps": 82,
+        "donations": 2502,
+        "certificates": 2352
+      },
+      {
+        "districtName": "North Delhi",
+        "camps": 83,
+        "donations": 2503,
+        "certificates": 2353      
+      },
+      {
+        "districtName": "South Delhi",
+        "camps": 84,
+        "donations": 2504,
+        "certificates": 2354        
+      }
+    ]
+  },
+  {
+    "stateName": "Uttar Pradesh",
+    "camps": 1200,
+    "donations": 35000,
+    "certificates": 33500,
+    "districtDetails": [
+      {
+        "districtName": "Agra",
+        "camps": 80,
+        "donations": 2500,
+        "certificates": 2350
+      },
+      {
+        "districtName": "Aligarh",
+        "camps": 81,
+        "donations": 2501,
+        "certificates": 2351
+      },
+      {
+        "districtName": "Ghaziabad",
+        "camps": 82,
+        "donations": 2502,
+        "certificates": 2352
+      },
+      {
+        "districtName": "Gautam Buddha Nagar",
+        "camps": 83,
+        "donations": 2503,
+        "certificates": 2353      
+      },
+      {
+        "districtName": "Mathura",
+        "camps": 84,
+        "donations": 2504,
+        "certificates": 2354        
+      }
+    ]
+  },
+  {
+    "stateName": "Assam",
+    "camps": 400,
+    "donations": 22000,
+    "certificates": 21500,
+    "districtDetails": [
+      {
+        "districtName": "Cachar",
+        "camps": 80,
+        "donations": 2500,
+        "certificates": 2350
+      },
+      {
+        "districtName": "Dhubri",
+        "camps": 81,
+        "donations": 2501,
+        "certificates": 2351
+      },
+      {
+        "districtName": "Jorhat",
+        "camps": 82,
+        "donations": 2502,
+        "certificates": 2352
+      },
+      {
+        "districtName": "Nagaon",
+        "camps": 83,
+        "donations": 2503,
+        "certificates": 2353      
+      },
+      {
+        "districtName": "Kamrup",
+        "camps": 84,
+        "donations": 2504,
+        "certificates": 2354        
+      }
+    ]
+  },
+  {
+    "stateName": "Andhra Pradesh",
+    "camps": 1000,
+    "donations": 37000,
+    "certificates": 35566,
+    "districtDetails": [
+      {
+        "districtName": "Chittoor",
+        "camps": 80,
+        "donations": 2500,
+        "certificates": 2350
+      },
+      {
+        "districtName": "Guntur",
+        "camps": 81,
+        "donations": 2501,
+        "certificates": 2351
+      },
+      {
+        "districtName": "Kadapa",
+        "camps": 82,
+        "donations": 2502,
+        "certificates": 2352
+      },
+      {
+        "districtName": "Kurnool",
+        "camps": 83,
+        "donations": 2503,
+        "certificates": 2353      
+      },
+      {
+        "districtName": "Visakhapattanam",
+        "camps": 84,
+        "donations": 2504,
+        "certificates": 2354        
+      }
+    ]
+  },
+  {
+    "stateName": "Arunachal Pradesh",
+    "camps": 600,
+    "donations": 15000,
+    "certificates": 13500,
+    "districtDetails": [
+      {
+        "districtName": "Chang Lang",
+        "camps": 80,
+        "donations": 2500,
+        "certificates": 2350
+      },
+      {
+        "districtName": "Tawang",
+        "camps": 81,
+        "donations": 2501,
+        "certificates": 2351
+      },
+      {
+        "districtName": "Likabali",
+        "camps": 82,
+        "donations": 2502,
+        "certificates": 2352
+      },
+      {
+        "districtName": "Lohit",
+        "camps": 83,
+        "donations": 2503,
+        "certificates": 2353      
+      },
+      {
+        "districtName": "East Kameng",
+        "camps": 84,
+        "donations": 2504,
+        "certificates": 2354        
+      }
+    ]
+  },
+  {
+    "stateName": "Gujarat",
+    "camps": 1300,
+    "donations": 55000,
+    "certificates": 53500,
+    "districtDetails": [
+      {
+        "districtName": "Kutch",
+        "camps": 80,
+        "donations": 2500,
+        "certificates": 2350
+      },
+      {
+        "districtName": "Jam Nagar",
+        "camps": 81,
+        "donations": 2501,
+        "certificates": 2351
+      },
+      {
+        "districtName": "Vadodara",
+        "camps": 82,
+        "donations": 2502,
+        "certificates": 2352
+      },
+      {
+        "districtName": "Surat",
+        "camps": 83,
+        "donations": 2503,
+        "certificates": 2353      
+      },
+      {
+        "districtName": "Bhavnagar",
+        "camps": 84,
+        "donations": 2504,
+        "certificates": 2354        
+      }
+    ]
+  }
+  ]
+}

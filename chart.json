@@ -1,0 +1,33 @@
+{ "data" : [ 
+  {
+    "stateName": "Delhi",
+    "donations": 25000,
+    "certificates": 23500
+  },
+  {
+    "stateName": "Uttar Pradesh",
+    "donations": 35000,
+    "certificates": 33500
+  },
+  {
+    "stateName": "Assam",
+    "donations": 22000,
+    "certificates": 21500
+  },
+  {
+    "stateName": "Andhra Pradesh",
+    "donations": 37000,
+    "certificates": 35566
+  },
+  {
+    "stateName": "Arunachal Pradesh",
+    "donations": 15000,
+    "certificates": 13500
+  },
+  {
+    "stateName": "Gujarat",
+    "donations": 55000,
+    "certificates": 53500
+  }
+  ]
+}
